@@ -9,8 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **secret project**
-
+- 🔭 I’m currently working in hsoft company
 - 📫 How to reach me **m.nejaat01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

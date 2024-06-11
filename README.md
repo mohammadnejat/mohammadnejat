@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **secret project**
 
-- 📫 How to reach me **mohammadofahmad@gmail.com**
+- 📫 How to reach me **m.nejaat01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
